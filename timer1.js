@@ -1,4 +1,3 @@
-
 const time = process.argv.slice(2);
 
 for (const item in time) {
